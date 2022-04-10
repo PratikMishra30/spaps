@@ -7,6 +7,6 @@ export default class extends AbstractView{
     }
 
     async getHtml(){
-        return '<h1> On Dashboard View</h1>';
+        return '<h1> On Dashboard View Test CICD</h1>';
     }
 }
